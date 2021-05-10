@@ -15,3 +15,5 @@ https://github.com/Araceli4690/Password-Generator.git
 https://araceli4690.github.io/Password-Generator/
 
 ## screenshot
+
+https://github.com/Araceli4690/Password-Generator/issues/1#issue-883176580
