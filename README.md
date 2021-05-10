@@ -9,5 +9,9 @@ created a generate password function containing confirmation prompts to output r
 - when all prompts are answered a password is generated based on selected criteria
 
 ## Github Url
+https://github.com/Araceli4690/Password-Generator.git
 
 ## Website URl
+https://araceli4690.github.io/Password-Generator/
+
+## screenshot
