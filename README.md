@@ -1,19 +1,31 @@
-# Password Generator Starter Code
+# Password Generator
+An application that generates a random password based on entered criteria
 
-## Description
-created a generate password function containing confirmation prompts to output randomize password
+## table of contents 
+- [Purpose](#purpose)
+- [Technologies-Used](#Technologies-Used)
+- [Getting-started](#Getting-started)
+- [Deployed-app](#deployed-app)
+- [Contact](#Contact)
 
-- user is presented with a series of prompts for password criteria
-- user is asked to select length of password between 8 and 128 characters
-- user is asked for character types to include
-- when all prompts are answered a password is generated based on selected criteria
+## Purpose 
+An application that users can use to generate a random passowrd based on criteria selected by the user. The app runs in the browser and features dynamically updates HTMl and CSS powered by Javascript. 
 
-## Github Url
-https://github.com/Araceli4690/Password-Generator.git
+## Technologies-Used
+- Javascript
+- HTML
+- CSS
 
-## Website URl
+## Getting-started
+If you would like to run the application from your desktop simply `clone` the code and open the HTML page in your default browser. 
+
+## Deployed-app
+The app was deployed on [Github](https://github.com/) and can be viewed at the following link
 https://araceli4690.github.io/Password-Generator/
 
-## screenshot
+- sample of page
 
-https://github.com/Araceli4690/Password-Generator/issues/1#issue-883176580
+![](./develop/password.png)
+
+## Contact
+If you have any questions feel free to contact me through my [Github](https://github.com/Araceli4690).
